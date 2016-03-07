@@ -1,0 +1,6 @@
+To run the script, you need to install 'selenium' module.
+
+This can be done using pip
+
+Run the command:
+pip install selenium
